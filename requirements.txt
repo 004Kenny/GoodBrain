@@ -1,0 +1,7 @@
+typing
+textwrap
+platform
+subprocess
+shutil
+re
+pyttsx3
